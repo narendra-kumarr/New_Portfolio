@@ -22,7 +22,7 @@ The portfolio focuses on clean UI, smooth animations, and an engaging user exper
 - React Scroll
 
 ## 📸 Preview
-🔗 Live Website: (https://new-portfolio-peach-eight.vercel.app/) 
+🔗 Live Website: (https://narendrasharma.com.np) 
 
 
    ```bash
